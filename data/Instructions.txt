@@ -1,0 +1,2 @@
+Kindly unzip the UCI HAR Dataset.tar.gz.
+
